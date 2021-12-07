@@ -15,13 +15,13 @@ export default function Nav() {
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About Me</a>
+          <a class="nav-link" href="AboutMe">About Me</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Featured Projects</a>
+          <a class="nav-link" href="Projects">Featured Projects</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="Contact">Contact</a>
         </li>
      </ul>
     </div>
